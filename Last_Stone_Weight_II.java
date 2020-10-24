@@ -1,3 +1,4 @@
+// 背包问题， reference: http://www.noteanddata.com/leetcode-5019-Video-Stitching-java-solution-note.html
 class Solution {
     public int lastStoneWeightII(int[] stones) {
         int sum = 0;
